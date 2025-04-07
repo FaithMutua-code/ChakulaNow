@@ -74,4 +74,13 @@
   display: flex;
   gap: 10px;
   padding: 6px;
+  border-radius: 50px;
+  background-color: white;
+  -webkit-border-radius: 50px;
+  -moz-border-radius: 50px;
+  -ms-border-radius: 50px;
+  -o-border-radius: 50px;
+}
+.food-item-counter img{
+  width: 30px;
 }
